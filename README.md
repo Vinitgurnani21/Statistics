@@ -1,6 +1,6 @@
 # Statistics
 
-### Universal_Inferential_Statistics
+### Universal_Inferential_Statistics <br/>
 
 - Starts from making us familiar to Confidence interval and Normal distribution.
 - One Sample T test.
