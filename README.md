@@ -1,7 +1,7 @@
 # Statistics
 
 ### Universal_Inferential_Statistics
-    This file contains the following topics. <br/>
+   This file contains the following topics. <br/>
 
 - Starts from making us familiar to Confidence interval and Normal distribution.
 - One Sample T test.
